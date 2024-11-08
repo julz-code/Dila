@@ -1,2 +1,2 @@
 # Dila
-A language learning app that will use chats with Ai to help guide the user to speaking fluently in their target language.
+A language learning app that uses chats with AI to help guide the user to fluently speak their target language.
